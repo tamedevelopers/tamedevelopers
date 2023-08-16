@@ -1,6 +1,6 @@
 Hi! I'm a developer & educator who creates online programming courses to help out anyone interested in learning web development.
 
-- [Website](https://tametemplates.com/)
+- Website: [Website](https://tametemplates.com/)
 - YouTube: [Tame Learning Hub](https://www.youtube.com/channel/tamelearninghub)
 - Instagram: [@tamedevelopers](https://www.instagram.com/tamedevelopers/) 
 - Twitter: [@tamedevelopers](https://twitter.com/tamedevelopers)

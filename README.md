@@ -4,6 +4,7 @@ Hi! I'm a developer & educator who creates online programming courses to help ou
 - YouTube: [Tame Learning Hub](https://www.youtube.com/channel/tamelearninghub)
 - Instagram: [@tamedevelopers](https://www.instagram.com/tamedevelopers/) 
 - Twitter: [@tamedevelopers](https://twitter.com/tamedevelopers)
+- [Reach me on Linkedin](https://www.linkedin.com/in/fredipeterson/)
 <!--
 **tamedevelopers/tamedevelopers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
